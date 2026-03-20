@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Arote</h1>
-<h3 align="center">A passionate C.S. student from India</h3>
+<h1 align="center">Hola, I'm Ujjwal Arote</h1>
+<h3 align="center">Just a passionate C.S. student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalarote69" alt="ujjwalarote69" /></a> </p>
 
-- 🔭 I’m currently working on **flutter projects**
+- 🏢 I’m currently placed at **Meka Group**
 
-- 🌱 I’m currently learning **fulstack android and iOS developer**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UjjwalArote69?tab=repositories](https://github.com/UjjwalArote69?tab=repositories)
 
-- 📫 How to reach me **ujjwalarote369@gmail.com**
+- 📫 How to reach me **ujjwalarote69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
