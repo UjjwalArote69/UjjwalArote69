@@ -1,7 +1,7 @@
 name: Generate 3D Contribution Skyline
 
 on:
-  # Run automatically every 12 hours
+  # Run automatically every 12 hours (offset from snake)
   schedule:
     - cron: "30 */12 * * *"
   # Run on push to main
@@ -26,25 +26,14 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: UjjwalArote69
-          SETTING_JSON: assets/3d-config.json
+          USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & push generated SVGs
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan output-3d || git checkout output-3d || true
-          # Pull latest output branch if it exists, otherwise create it
-          git fetch origin output || true
-          if git show-ref --quiet refs/remotes/origin/output; then
-            git checkout output
-            git pull origin output
-          else
-            git checkout --orphan output
-            git rm -rf . || true
-          fi
-          mkdir -p .
-          cp -r profile-3d-contrib/*.svg . || true
-          git add *.svg
-          git commit -m "chore: refresh 3d contribution svgs" || echo "nothing to commit"
-          git push origin output --force
+      - name: Push generated SVGs to output-3d branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-3d
+          build_dir: profile-3d-contrib
+          keep_history: false
+          allow_empty_commit: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
