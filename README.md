@@ -154,20 +154,6 @@ Neon Postgres · Zustand · Gemini AI
 ## 📊 &nbsp;GitHub Pulse
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/UjjwalArote69/UjjwalArote69/output-summary/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/UjjwalArote69/UjjwalArote69/output-summary/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="top languages by repo" />
-  <img height="180em" src="https://raw.githubusercontent.com/UjjwalArote69/UjjwalArote69/output-summary/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most committed languages" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/UjjwalArote69/UjjwalArote69/output-summary/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
-  <img height="180em" src="https://raw.githubusercontent.com/UjjwalArote69/UjjwalArote69/output-summary/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=UjjwalArote69&theme=tokyonight&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=06b6d4&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=ec4899&sideNums=06b6d4" alt="streak" />
 </div>
 
