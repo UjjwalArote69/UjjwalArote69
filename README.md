@@ -204,7 +204,7 @@ Neon Postgres · Zustand · Gemini AI
 | | |
 |---|---|
 | 🏅 | **Smart India Hackathon 2024** — National-level hackathon by Govt. of India |
-| 🥈 | **TechNex 2025** — Qualified for Round 2, competitive inter-college tech fest |
+| 🥈 | **TechNex 2026** — 1st in competitive inter-college tech fest |
 | 🎓 | **SSC 10th — 90.40%** — S.I.E.S High School, Ghatkopar (W) |
 | 💼 | **Full-Stack Developer Intern** — Meka Group · Jan 2025 → Present |
 
