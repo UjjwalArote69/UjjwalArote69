@@ -175,7 +175,7 @@ Neon Postgres · Zustand · Gemini AI
 ### 🧊 &nbsp;3D Contribution Skyline
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/UjjwalArote69/UjjwalArote69/output/profile-night-rainbow.svg" alt="3d contributions" />
+  <img src="https://raw.githubusercontent.com/UjjwalArote69/UjjwalArote69/output-3d/profile-night-rainbow.svg" alt="3d contributions" />
 </div>
 
 <br />
